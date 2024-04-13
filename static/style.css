@@ -1,0 +1,21 @@
+*{
+    font-family: 'Germania One', cursive;
+    color: rgb(6, 12, 12);
+    font-size: 6vh;
+}
+html{
+    background-color: #4d7f88;
+}
+
+p{
+    font-size: 4vh;
+}
+
+.Money{
+    /*text-align: right;*/
+}
+
+#valueCoin{
+    color: rgb(231, 116, 39)
+}
+
